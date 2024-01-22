@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "csw-chat",
+    "slug": "csw-chat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
